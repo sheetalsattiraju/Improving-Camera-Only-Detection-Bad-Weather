@@ -19,6 +19,5 @@ In this project, our group will attempt to improve a lightweight model with came
 
 ## Attempts to integrate fog density value information:
 1. Fog Density Scalar value added as constant input channel
-2. "Squint"
-3. FiLM
-4. Image-Adaptive YOLO
+2. FiLM
+3. Image-Adaptive YOLO
