@@ -21,3 +21,6 @@ In this project, our group will attempt to improve a lightweight model with came
 1. Fog Density Scalar value added as constant input channel
 2. FiLM
 3. Image-Adaptive YOLO
+
+## Misc
+Our work is spread across four branches. Insights were taken from each branch to lead to our final result and demo.
